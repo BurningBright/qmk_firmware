@@ -1,20 +1,20 @@
-[submodule "lib/chibios"]
+[submodule "lib/chibios"] #413e39c56
 	path = lib/chibios
 	url = https://github.com/qmk/ChibiOS
 	branch = master
-[submodule "lib/chibios-contrib"]
+[submodule "lib/chibios-contrib"] #4568901a
 	path = lib/chibios-contrib
 	url = https://github.com/qmk/ChibiOS-Contrib
 	branch = master
-[submodule "lib/googletest"]
+[submodule "lib/googletest"] #2d924d7a
 	path = lib/googletest
 	url = https://github.com/qmk/googletest
-[submodule "lib/lufa"]
+[submodule "lib/lufa"] #d6df70b8b
 	path = lib/lufa
 	url = https://github.com/qmk/lufa
-[submodule "lib/vusb"]
+[submodule "lib/vusb"] #bdb53e4
 	path = lib/vusb
 	url = https://github.com/qmk/v-usb
-[submodule "lib/printf"]
+[submodule "lib/printf"] #d3b9846
 	path = lib/printf
 	url = https://github.com/qmk/printf
